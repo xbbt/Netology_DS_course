@@ -3,3 +3,5 @@
 *.zip
 Objects/libs/
 Objects/8.*
+*.csv
+*.pdf
